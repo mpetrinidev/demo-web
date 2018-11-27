@@ -20,6 +20,20 @@ h2 {
     color: rgb(236, 240, 241);
 }
 
+button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 1px;
+}
+
 .container {
     width: 1020px;
     margin: 0 auto;
